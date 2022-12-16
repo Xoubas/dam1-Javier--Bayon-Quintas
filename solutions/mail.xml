@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+    <title name="You've Got Mail"/>
+    <year number="1998"/>
+    <director name="Nora Ephron" nationality="USA"/>
+
+    <cast>
+        <actor name="Tom Hanks" character="Joe Fox"/>
+        <actor name="Meg Ryan" character="Kathleen Kelly"/>
+        <actor name="Parker Posey" character="Patricia Eden"/>
+        <actor name="Greg Kinnear" character="Frank Navasky"/>
+        <actor name="Jean Stapleton" character="Birdie Conrad"/>
+        <actor name="Steve Zahn" character="George Pappas"/>
+    </cast>
+</mail>
