@@ -1,0 +1,3 @@
+Ej. 7: mail.json occupies 555 bytes, while mail.xml occupies 572 bytes
+
+Ej. 11: 3. No namespace to which the attribute belongs
